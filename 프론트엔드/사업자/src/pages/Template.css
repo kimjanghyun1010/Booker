@@ -1,0 +1,112 @@
+.tem_box{
+    position:relative;
+    margin:auto;
+    width: 90%;
+    height: 90%;
+
+}
+
+.tem_title{
+    text-align: left;
+    margin-left: 2%;
+    margin-bottom: 3%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+
+
+.template{
+  
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.tem_title button{
+    color : white;
+    width: 8%;
+    height: 80%;
+
+    margin-right: 0;
+    margin-left: 60%;
+    background-color:rgb(79, 84, 87);
+    border: 1px solid rgb(79, 84, 87);
+    border-radius: 10px;
+}
+
+
+.tem_title button a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.template_title{
+    width: 100%;
+    height: 10%;
+    font-size: 20px;
+   
+
+}
+.template_box{
+    
+    width: 100%;
+    height:90%;
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  
+}
+
+.template_box_menu{
+    width: 37%;
+    height: 40%;
+    margin-top: 20px;
+    margin-right: 8%;
+    padding: 2%;
+    background-color: white;
+    border: 5px solid rgb(97, 64, 64);
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+.template_img{
+    width:100%;
+    height: 72%;
+    background-color:rgba(79, 84, 87, 0.7);
+    margin-bottom: 6%;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+
+.template_name{
+    width:100%;
+    height: 12%;
+    font-size: 18px;
+    color: white;
+    background-color:rgb(79, 84, 87);
+    
+}
+
+
+.template_explain{
+    width:100%;
+    height: 10%;
+    font-size: 13px;
+    color: white;
+    margin-bottom: 2%;
+    background-color:rgb(79, 84, 87);
+
+}
+
+
+
+
+
+
+
+

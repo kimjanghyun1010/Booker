@@ -1,0 +1,20 @@
+.coupon_num{
+  border: 1px solid rgb(85, 85, 85);
+  width:52%;
+  height: 1.6rem;
+  font-size: 30px;
+padding: 15px 12px;
+margin-left: 6%;
+}
+
+.coupon_btn{
+    
+    border: 1px solid rgb(112, 110, 110);
+    font-size: 20px;
+    color: black;
+   background-color:#4285f4;
+ padding: 13px 11px;
+ color:white
+}
+
+

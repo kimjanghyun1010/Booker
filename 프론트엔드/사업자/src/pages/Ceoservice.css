@@ -1,0 +1,115 @@
+.ser_box{
+    position:relative;
+    margin:auto;
+    width: 90%;
+    height: 90%;
+
+}
+
+.ser_title{
+    text-align: left;
+    margin-left: 2%;
+    margin-bottom: 3%;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+
+
+.service{
+  
+    width: 100%;
+    height: 100%;
+    
+    
+}
+
+.ser_title button{
+    color : white;
+    width: 8%;
+    height: 80%;
+
+    margin-right: 0;
+    margin-left: 60%;
+    background-color:rgb(79, 84, 87);
+    border: 1px solid rgb(79, 84, 87);
+    border-radius: 10px;
+}
+
+
+.ser_title button a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.service_title{
+    width: 100%;
+    height: 10%;
+    font-size: 20px;
+   
+
+}
+.service_box{
+    
+    width: 100%;
+    height:90%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  
+}
+
+.service_box_menu{
+    width: 27%;
+    height: 40%;
+    margin: 10px;
+    padding: 2%;
+    background-color: white;
+    border: 5px solid rgb(97, 64, 64);
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+.menu_img{
+    width:100%;
+    height: 60%;
+    background-color:rgba(79, 84, 87, 0.7);
+    margin-bottom: 10%;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+
+.menu_name{
+    width:100%;
+    height: 10%;
+    color: white;
+    background-color:rgb(79, 84, 87);
+    
+}
+
+.menu_price{
+    width:100%;
+    height: 10%;
+    color: white;
+    background-color:rgb(79, 84, 87);
+
+}
+
+.menu_explain{
+    width:100%;
+    height: 13%;
+    color: white;
+    margin-bottom: 2%;
+    background-color:rgb(79, 84, 87);
+
+}
+
+
+
+
+
+
+
+

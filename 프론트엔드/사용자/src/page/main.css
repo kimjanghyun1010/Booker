@@ -1,0 +1,7 @@
+.cont{
+    background-color: rgb(228, 228, 228);
+    margin :auto;
+    overflow: hidden;
+    width: 100%;
+    font-size: 20px;
+}

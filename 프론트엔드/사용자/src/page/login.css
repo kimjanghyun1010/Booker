@@ -1,0 +1,82 @@
+
+.login_cont{
+
+    width:100%;
+    height:1800px;
+    background-color: rgb(236, 236, 236);
+    
+}
+.small_logo{
+    margin-top:-4%;
+    margin-bottom: 10%;
+}
+
+.login_cont_cont{
+    width:70%;
+    height:1300px;
+    margin:auto;
+    background-color: rgb(236, 236, 236);
+}
+
+
+.empty{
+    width:100%;
+    height:100px;
+}
+
+.login_logo{
+    color:rgb(61, 165, 224);
+    font-size: 60px;
+    text-align: center;
+    
+}
+
+.login_id{
+
+    margin-top:100px;
+}
+
+.login_id_input{
+    border: 1px solid rgb(133, 131, 131);
+    width:550px;
+    height: 4rem;
+    font-size: 25px;
+  
+}
+
+.login_pwd{
+
+}
+
+.login_pwd_input{
+    border: 1px solid rgb(133, 131, 131);
+    width:550px;
+    height: 4rem;
+    font-size: 25px;
+    
+}
+
+.login_check_btn{
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    border: 3px solid#5abce2;
+    background-color:rgb(61, 165, 224);
+    margin:auto;
+    width: 550px;
+    height: 4.5rem;
+}
+
+
+.login_join_btn{
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    border: 3px solid#5abce2;
+    background-color:rgb(61, 165, 224);
+    margin:auto;
+    width: 550px;
+    height: 4.5rem;
+}
+
+

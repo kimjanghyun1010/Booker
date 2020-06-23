@@ -1,0 +1,82 @@
+.guide_box{
+    position:relative;
+    margin:auto;
+    width: 90%;
+    height: 80%;
+    
+    
+}
+
+.guide_text_title1{
+    text-align: left;
+    margin-left: 2%;
+    margin-bottom: 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.guide_text_title2{
+    text-align: left;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-bottom:1%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.guide_text_text{
+    height: 30%;
+    text-align: left;
+    margin-bottom: 5%;
+    border: 5px solid rgb(97, 64, 64);
+    border-radius: 8px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+
+.guide_text_inner_text{
+    float: left;
+    text-align: left;
+    width: 25%;
+    height: 100%;
+    background-color: white;
+    border-left:  1px solid rgb(97, 64, 64);
+    box-sizing: border-box;
+}
+
+.guide_inner_box_title{
+    padding-bottom: 5%;
+    margin-top:15%;
+    margin-right: 5%;
+    margin-left: 5%;
+    border-bottom: 1px dotted rgb(97, 64, 64);
+    
+    
+}
+
+.guide_inner_box_title h5{
+    margin: 0;
+}
+
+.guide_inner_box_content{
+    font-size: 13px;
+    font-weight: normal;
+    margin-top: 15%;
+    margin-left: 5%;
+    
+}
+
+
+.guide_logo{
+    position:absolute;
+    text-align: right; 
+    
+    bottom:0;
+    width: 80%;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+/* //rgba(231, 231, 233, 0.795); */

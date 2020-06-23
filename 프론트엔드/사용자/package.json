@@ -1,0 +1,63 @@
+{
+  "name": "testasdf",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.10.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.3.4",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "customize-cra": "^1.0.0",
+    "less": "^3.11.3",
+    "less-loader": "^6.1.1",
+    "material-table": "^1.59.0",
+    "moment": "^2.26.0",
+    "moment-jalaali": "^0.9.2",
+    "query-string": "^6.13.1",
+    "react": "^16.13.1",
+    "react-app-rewired": "^2.1.6",
+    "react-calendar": "^3.1.0",
+    "react-classes": "^1.1.1",
+    "react-datepicker": "^3.0.0",
+    "react-datepicker2": "^3.2.0",
+    "react-daum-postcode": "^1.9.0",
+    "react-dom": "^16.13.1",
+    "react-moment": "^0.9.7",
+    "react-responsive-carousel": "^3.2.7",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.1",
+    "react-search-field": "^1.0.0",
+    "react-table": "^7.1.0",
+    "react-tabs": "^3.1.0",
+    "react-time-picker": "^4.0.1",
+    "react-useragent": "^1.1.2",
+    "reactdom": "^2.0.0",
+    "reactstrap": "^8.4.1",
+    "styled-components": "^5.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

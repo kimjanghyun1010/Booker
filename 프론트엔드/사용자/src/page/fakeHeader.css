@@ -1,0 +1,134 @@
+.main_header{ 
+    background: rgb(255, 255, 255);
+     float: left; 
+     width: 100%;
+     height:80px; 
+    
+     border-bottom: 1px solid#d6d6d6; 
+     margin-bottom: 1%;
+}
+
+    .logobox{
+        background: rgb(255, 255, 255);
+        float: left; 
+        margin: 0 20px 20px 0; 
+        width: 130px; 
+        height:40px;
+
+        margin-top: 0.3%;
+        
+    }
+
+
+
+    .logoboxbtn{
+        color:rgb(61, 165, 224);
+        font-weight: bolder;
+        font-size: 30px;
+        border-right: 1px solid#d6d6d6; 
+    }
+    
+    .btn_signUp{
+        background: rgb(255, 255, 255);
+        float: right;
+        margin: 0 10px 10px 0; 
+        width: 4%; height:70%;
+        border: 5px solid#4ebeeb;
+        margin-top: 0.2%;
+        margin-right: 1%;
+}
+    
+    .btn_login{
+        background: rgb(255, 255, 255);
+        float: right;
+        margin: 0 10px 10px 0; 
+        width: 70px; height:50px;
+        margin-top: 0.2%;
+        margin-right: 3%;
+}
+    
+.btn_mypage{
+    background: rgb(255, 255, 255);
+        float: right;
+        margin: 0 10px 10px 0; 
+        width: 70px; height:50px;
+        margin-top: 0.5%;
+}
+
+.btn_logout{
+    background: rgb(255, 255, 255);
+        float: right;
+        margin: 0 10px 10px 0; 
+        width: 70px; height:50px;
+        margin-top: 0.5%;
+}
+
+   
+
+.catalogbtn{
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 15%;
+}
+
+
+
+    .catalog1{
+        background: rgb(255, 255, 255);
+        float: left; 
+        margin: 0 10px 10px 0; 
+        width: 150px; height:60px;
+    
+
+}
+    .catalog2{
+        background: rgb(255, 255, 255);
+        float: left; 
+        margin: 0 10px 10px 0; 
+        width: 150px; height:60px;
+       
+}
+    .catalog3{
+        background: rgb(255, 255, 255);
+        float: left; 
+        margin: 0 10px 10px 0; 
+        width: 150px; height:60px;
+       
+    
+}
+    .catalog4{
+        background: rgb(255, 255, 255);
+        float: left; 
+        width: 60px; height:60px;
+    
+}
+    
+    .dropdown {
+        position: relative;
+        display: inline-block;
+}
+    
+    .dropbtn {
+        background-color:rgb(0, 0, 0);
+        width:70px;
+        height: 60px;
+        color: white;
+        border: none;
+        margin-bottom:50px;
+}
+    
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: rgb(255, 255, 255);
+        width: 100%;
+}
+    
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+      .more_btn{
+          margin-bottom:20px;
+}
+    

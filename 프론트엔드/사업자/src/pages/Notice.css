@@ -1,0 +1,37 @@
+.notice_box{
+    position:relative;
+    margin:auto;
+    width: 80%;
+    height: 80%;
+    background-color: white;
+    border: 5px solid rgb(97, 64, 64);
+    border-radius: 8px;
+}
+
+.notice_text_title{
+    text-align: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.notice_text_text{
+    text-align: left;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.notic_logo{
+    position:absolute;
+    text-align: right; 
+    
+    bottom:10%;
+    width: 80%;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+/* //rgba(231, 231, 233, 0.795); */

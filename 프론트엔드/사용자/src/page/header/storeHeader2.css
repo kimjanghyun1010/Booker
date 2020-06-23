@@ -1,0 +1,114 @@
+
+.store2_header{ 
+    background: rgba(255, 255, 255, 0);
+     float: left; 
+     width: 100%;
+
+  
+    
+
+        
+    }
+
+.store2log{
+    margin-left: 5%;
+
+}
+
+    .store2box{
+        background: rgb(255, 255, 255);
+        float: left; 
+        margin: 0 20px 20px 0; 
+        width: 200px; 
+        height:40px;
+        
+        margin-top: 0.3%;
+    
+        
+    }
+
+
+
+    .store2boxbtn{
+        color:rgb(61, 165, 224);
+        font-weight: bolder;
+        font-size: 30px;
+        border-right: 1px solid#d6d6d6; 
+    }
+    
+    .btn_signUp{
+        background: rgba(255, 255, 255, 0);
+        float: right;
+        margin: 0 10px 10px 0; 
+        width: 70px; height:60px;
+        border: 5px solid#4ebeeb;
+        margin-top: 0.5%;
+}
+    
+    .store2_btn_login{
+        background: rgba(255, 255, 255, 0);
+        float: right;
+        margin: 0 10px 10px 0; 
+        width: 70px; height:50px;
+        margin-top: 0.5%;
+
+}
+    
+   
+
+.store2btn{
+    color: rgb(228, 227, 227);
+    font-size: 25px;
+    
+    margin-top: 10%;
+    background: rgba(255, 255, 255, 0);
+    border:0;
+    outline:0;
+    
+}
+.mypagebtn{
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 10%;
+    width: 150px;
+
+}
+
+
+
+    .store2log1{
+        background: rgba(255, 255, 255, 0);
+        float: left; 
+       
+        width: 150px; height:60px;
+       
+    
+
+}
+    .store2log2{
+        background: rgba(255, 255, 255, 0);
+        float: left; 
+      
+       width: 150px; height:60px;
+       position: relative; 
+       
+}
+    .store2log3{
+        background: rgba(255, 255, 255, 0);
+        float: left; 
+   
+        width: 150px; height:60px;
+        position: relative; 
+    
+}
+   
+.store2log4{
+    background: rgba(255, 255, 255, 0);
+    float: right; 
+   
+    width: 150px; height:60px;
+
+}
+    
+ 

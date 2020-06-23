@@ -1,0 +1,78 @@
+.tabs{
+    font-family:arial;
+    margin:10;
+    width:100%;
+    
+    
+    
+  }
+  
+  img{
+    width:150px;
+  }
+  
+  .tab-buttons{
+    width: fit-content;
+    
+    background-color: white;
+    margin-bottom:0px;
+    border: 1px solid rgb(54, 137, 229);
+    border-radius: 50px;
+
+  }
+  
+  .tab-container{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding:5%;
+    width:90%;
+    height: 800px;
+    overflow: auto;
+    background-color: white;
+    border: 1px solid rgb(54, 137, 229);
+    border-radius: 50px;
+  }
+
+  button{
+    margin-right:105px;
+    font-size:20px;
+    background:transparent;
+    border:none;
+    outline:none;
+    padding:10px 20px ;
+    cursor:pointer;
+    color:rgba(0,0,0,.4);
+    transition:all ease-in-out .2s;
+    border-bottom:2px solid transparent;
+    
+  }
+  .active{
+    margin-right:50px;
+    padding: 2px 20px 9px 20px;
+    border-bottom:2px solid #42b3f4;
+   
+    color:black;
+  }
+  .inner-title{
+    font-size: 30px;
+    font: outline;
+    border-bottom:2px solid black;
+  }
+  .inner-box{
+    
+    
+    width: fit-content;
+    height: fit-content;
+    
+    
+  }
+  .inner-container{
+    text-align: center;
+     float: left; 
+     width: 300px;
+     height: 200px; 
+     margin: 4%;
+     padding-right: 30px; 
+     border-right: 1px solid#d6d6d6; 
+     border-bottom: 1px solid#d6d6d6;
+    }

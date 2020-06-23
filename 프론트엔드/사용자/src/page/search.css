@@ -1,0 +1,21 @@
+.cont_search{
+    background-color: rgb(228, 228, 228);
+    margin :auto;
+    overflow: hidden;
+    width: 100%;
+    font-size: 20px;
+}
+
+
+
+
+.cont_searchlist{ 
+    margin-left: 10%; 
+    width: 80%; 
+    height:2000px; 
+    overflow: scroll;
+    background-color: rgb(255, 255, 255);
+    
+    border-right: 1px solid#d6d6d6; 
+    border-bottom: 1px solid#d6d6d6;
+}

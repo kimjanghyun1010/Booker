@@ -1,0 +1,71 @@
+.hompi_box{
+  position:relative;
+  margin:auto;
+  width: 90%;
+  height: 90%;
+  
+
+}
+
+.hompi_title{
+  text-align: left;
+  margin-left: 2%;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+
+.template_category{
+  display: flex;
+  flex-direction: row;
+}
+
+.template_check{
+ 
+  margin-left: 5%;
+  padding-top: 1.52%;
+  font-size: 17px;
+}
+.homepage_box{
+    
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 7%;
+    padding-top: 2%;
+    padding-left:60px;
+    float: left;
+    background-color: white;
+    width:70%;
+    height: 800px;
+    text-align: left;
+    overflow: auto;
+    border: 5px solid rgb(97, 64, 64);
+    border-radius: 8px;
+    
+  }
+
+.homepage_click_bt{
+  background-color:rgb(37, 36, 41);
+  border: 1px solid rgb(37, 36, 41)  ;
+  border-radius: 10px;
+  margin-right: 5px;
+  margin-left: 10px;
+  color:white;
+  font-size: 15px;
+  
+}
+.homepage_button{
+  border: 1px solid rgb(37, 36, 41)  ;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-bottom : 20px;
+  float:right;
+  background-color:rgb(37, 36, 41);
+  color:white;
+}
+
+.switch-container h4{
+  margin-bottom: 0;
+}
